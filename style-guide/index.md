@@ -8,36 +8,47 @@ layout: article-toc
 Info box titles capped down so far, I've been capitalizing them—correct?
 
 Using leading capital for Book when referring to an HDocBook.
+
 (explanation: in the document this is fairly consistently captialised, suggesting that this is what's wanted. it's an in-company product, which can be treated as a proper noun.)
-We need a consistent styling for browser/GUI buttons. In all uses we have title case. Sometimes they are enclosed in quotes, and at other times given Bold+Italic. Double quotes WITH bold and italic is probably overkill.
+
+We need a consistent styling for browser/GUI buttons. In all uses we have title case. Sometimes they are enclosed in quotes, and at other times given Bold+Italic.
+
+Double quotes WITH bold and italic is probably overkill.
+
 Styling for keyboard keys is also inconsistent—mostly title case with double quotes. I suggest bold+italic for both keyboard keys and GUI buttons.
+
 Link for markdown bookmark links in notes box in markdown.md is not working.
 
 ## Notes/questions for later
 
 Styling – two-line section breaks, and those coded after snippets?
+
 Add instructions for 'Git fetch from main branch' to complex-edits?
+
 Check point 10 of simple edits - does the button really say that twice?
-Some references to GUI buttons are given special styling (e.g. ***Repositories***, in simple-edits). Should we use that everywhere, nowhere, or in which special cases? 
+
+Some references to GUI buttons are given special styling (e.g. ***Repositories***, in simple-edits). Should we use that everywhere, nowhere, or in which special cases?
+
 There is currently an enforced double newline before H2
+
 Double quotes are preferred in US English, but this is a weak preference and can be overridden
 
 ## Vocab
 
-HDocBooks
-Hornbill Docs
-Hornbill's Documentation Team (proper noun for the formal title of the team)
-the Hornbill Docs team ("team" as common noun for informal reference to the above)
-Hornbill HDocBook Tools
-hdoc (for the CLI tool)
-Git
-GitHub
-Git actions and objects decapped/treated common noun: Git pull, Git clone, your fork, this pull request
-Visual Studio Code or VS Code
-Markdown
-frontmatter
-Book (when referring to an HDocBook, "book" when referring to any other book)
-Library (when referring to the HDocBook Library, library when referring to a generic library, software library, etc.)
+- HDocBooks
+- Hornbill Docs
+- Hornbill's Documentation Team (proper noun for the formal title of the team)
+- the Hornbill Docs team ("team" as common noun for informal reference to the above)
+- Hornbill HDocBook Tools
+- hdoc (for the CLI tool)
+- Git
+- GitHub
+- Git actions and objects decapped/treated common noun: Git pull, Git clone, your fork, this pull request
+- Visual Studio Code or VS Code
+- Markdown
+- frontmatter
+- Book (when referring to an HDocBook, "book" when referring to any other book)
+- Library (when referring to the HDocBook Library, library when referring to a generic library, software library, etc.)
 
 Compound nouns and compound adjectives:
 - Two-word nouns and two-word adjectives *not immediately followed by a noun* have no hyphen: on the top level. this is open source.
