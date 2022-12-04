@@ -1,4 +1,4 @@
-# HDocBook documentation
+# Style Guide documentation
 This is an example of a simple static content documentation project that is compatible with the Hornbill Docs system
 
 Make sure that you have installed hdoc-tools   
