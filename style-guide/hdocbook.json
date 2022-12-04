@@ -1,0 +1,21 @@
+{
+  "docId": "style-guide",
+  "title": "Hornbill Content Style Guide",
+  "description": "Style guide for writing and other content used by our customers, partners and team members",
+  "publicSource": "--publicSource--",
+  "version": "0.0.1",
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "style-guide\\index"
+          }
+        ]
+      }
+    ]
+  }
+}
