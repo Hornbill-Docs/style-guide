@@ -6,6 +6,7 @@ layout: article-toc
 ## Questions for now
 
 Info box titles capped down so far, I've been capitalizing them—correct?
+
 Using leading capital for Book when referring to an HDocBook.
 (explanation: in the document this is fairly consistently captialised, suggesting that this is what's wanted. it's an in-company product, which can be treated as a proper noun.)
 We need a consistent styling for browser/GUI buttons. In all uses we have title case. Sometimes they are enclosed in quotes, and at other times given Bold+Italic. Double quotes WITH bold and italic is probably overkill.
