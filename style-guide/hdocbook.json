@@ -13,6 +13,10 @@
           {
             "text": "Welcome",
             "link": "style-guide\\index"
+          },
+          {
+            "text": "ToDo/Notes",
+            "link": "style-guide/todo-notes-style-sheet"
           }
         ]
       }
