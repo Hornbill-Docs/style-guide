@@ -4,6 +4,10 @@
   "description": "Style guide for writing and other content used by our customers, partners and team members",
   "publicSource": "--publicSource--",
   "version": "0.0.1",
+  "productFamily": "hdocs",
+  "tags": ["hdoc", "HDocBook", "Documentation", "Tool", "style"],
+  "audience": ["public"],
+  "languages": ["en"],
   "navigation": {
     "items": [
       {
