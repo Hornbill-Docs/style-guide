@@ -21,6 +21,10 @@
           {
             "text": "ToDo/Notes",
             "link": "style-guide/todo-notes-style-sheet"
+          },
+          {
+            "text": "Tips",
+            "link": "style-guide/tips"
           }
         ]
       }
