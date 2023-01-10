@@ -26,6 +26,11 @@
             "text": "Tips",
             "link": "style-guide/tips"
           }
+          ,
+          {
+            "text": "Voice",
+            "link": "style-guide/voice"
+          }
         ]
       }
     ]
