@@ -19,22 +19,28 @@
             "link": "style-guide/index"
           },
           {
-            "text": "ToDo/Notes",
-            "link": "style-guide/todo-notes-style-sheet"
-          },
-          {
             "text": "Tips",
             "link": "style-guide/tips"
           }
           ,
           {
-            "text": "Voice",
+            "text": "Voice of the brand",
             "link": "style-guide/voice"
           }
           ,
           {
-            "text": "Accessibility",
+            "text": "Accessibility Guidelines",
             "link": "style-guide/accessibility"
+          }
+        ]
+      },
+      {
+        "text": "[Notes - Work In Progress]",
+        "expand": true,
+        "items": [
+          {
+            "text": "ToDo/Notes",
+            "link": "style-guide/todo-notes-style-sheet"
           }
         ]
       }
