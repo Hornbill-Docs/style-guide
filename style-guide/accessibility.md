@@ -27,8 +27,8 @@ Mouse and Keyboard are the most popular input methods. However, if any of our pr
 ## Quick Tips
 Some more quick tips to enhance Accessibility in your content are as follows:
 * **Use parallel writing** for similar content which is grammatically correct and sounds better. For example, reading, writing, and listening. 
-* **Avoid line breaks** in sentences to put a content in a different line. The screen reader software will have a pause if a continuous sentence has a line break.
 * **Provide a detailed description** when providing a link. For example, instead of ‘Click here to read more’, use ‘Click here to read about the different types of products.’
+* **Avoid line breaks** in sentences to put a content in a different line. The screen reader software will have a pause if a continuous sentence has a line break.
 * **Try to read the text** as it would be read by a screen reader. Try to keep only one verb in the sentence and keep the sentence structure simple.
 * **Spell out words** like i.e., plus, etc. Some screen readers misread texts and symbols so best to put them in an elaborate way.
 * **Visually highlight** the link text with color and underline.
