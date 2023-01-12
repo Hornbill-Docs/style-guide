@@ -8,8 +8,3 @@ The communication with the customer must not just be clear and crisp but also wa
 ## Voice Principles
 The three principles to be followed for our tone of voice are as follows:
 ![Voice Principles]( /_books/style-guide/images/voice.svg )
-
-|Use|Instead of|
-|:---|:---|
-|Hard-of-hearing|Deaf, hearing-impaired|
-|Developmental disability, cognitive disability|Slow learner, mentally handicapped|
