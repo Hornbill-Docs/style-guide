@@ -32,6 +32,11 @@
             "text": "Accessibility Guidelines",
             "link": "style-guide/accessibility"
           }
+          ,
+          {
+            "text": "Accessibility - Text and Graphics",
+            "link": "style-guide/textandgraphics"
+          }
         ]
       },
       {
