@@ -1,4 +1,4 @@
-# Voice of the Brand
+# Tone of Voice
 When you write the content, there is a tone of voice that comes out from the content. We want this voice to be conversational and connecting with our audience. It shows the tone of our brand, the personality and style of the brand. It is not just about what we say but how we say it.
 The communication with the customer must not just be clear and crisp but also warm and relaxed. It should make the customer feel cared for. Some of the tips to ensure this are as follows:
 * Conversational language – Conversational/flowing language is always expected. You can put your content as if you are talking to the person. Your language must also be optimistic.

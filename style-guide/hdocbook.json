@@ -19,18 +19,27 @@
             "link": "style-guide/index"
           },
           {
-            "text": "Tips",
+            "text": "Content Styling Tips",
             "link": "style-guide/tips"
           }
           ,
           {
-            "text": "Voice of the brand",
+            "text": "Hornbill Tone of Voice",
             "link": "style-guide/voice"
           }
           ,
           {
             "text": "Accessibility Guidelines",
-            "link": "style-guide/accessibility"
+            "items": [
+              {
+                "text": "Accessibility",
+                "link": "style-guide/accessibility"
+              },
+              {
+                "text": "Text and Graphics",
+                "link": "style-guide/textandgraphics"
+              }
+            ]
           }
           ,
           {
