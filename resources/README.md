@@ -1,0 +1,1 @@
+You can store any files and resources used in the creation of this hdocbook. None of these files are included in the build, but often, for example, if you were to create an image used in the content in Photoshop, you can put the photoshop source file into this folder and add to Git.  This way, if we need to modify the image in the future we have the original source file. 
