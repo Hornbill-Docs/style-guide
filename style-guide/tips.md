@@ -19,8 +19,8 @@ One space should be given after period, question mark and colon before starting 
 
 ## Minimalism
 Use the shortest way to portray an ideas in a sentence. For example:
-* x When you are ready to buy our product, click on the link provided below.
-* ✓ To purchase, click here.
+* x If you're ready to purchase a new refrigerator for your organization, contact your white goods account representative.
+* ✓ Ready to buy a refrigerator? Contact us.
 
 ## Review and revise
 Review your content and if you have a better way or word choice to revise it then edit it.
@@ -36,7 +36,9 @@ Do not miss adding a comma after 3 or more items are listed. This is called the 
 When revieing your content, cut any excess words or unrequired sentences. This will give your audience the right information to move forward.
 
 ## Conversational language
-You may use contractions such as let’s, you’re, we’re etc. in a conversational tone when the content calls for it. However, if in doubt or unsure, expand the usage.
+You may use contractions such as let’s, you’re, we’re etc. in a conversational tone when the content calls for it. However, if in doubt or unsure, expand the usage. For example:
+* x The experience you provide impacts your ability to get and keep the best people. That is why organizations are investing in technology to create new digital experiences faster. In this report, you will find out why customer and employee experiences matter.
+* ✓ The experience you provide impacts your ability to get and keep the best people. That’s why organizations are investing in technology to create new digital experiences faster. In this report, you’ll find out why customer and employee experiences matter.
 
 ## Capitalization
 Capitalize only proper nouns or names or the first word of a sentence, heading or phrase. For example:
