@@ -7,4 +7,5 @@ The communication with the customer must not just be clear and crisp but also wa
 
 ## Voice Principles
 The three principles to be followed for our tone of voice are as follows:
+
 <img src="/_books/style-guide/images/voice.svg" alt="Voice Principles" width="500"/>
