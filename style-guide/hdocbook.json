@@ -29,6 +29,11 @@
           }
           ,
           {
+            "text": "Content Planning",
+            "link": "style-guide/contentplanning"
+          }
+          ,
+          {
             "text": "Accessibility Guidelines",
             "items": [
               {
@@ -38,6 +43,10 @@
               {
                 "text": "Text and Graphics",
                 "link": "style-guide/textandgraphics"
+              },
+              {
+                "text": "Graphics and Design",
+                "link": "style-guide/graphicsanddesign"
               }
             ]
           }
