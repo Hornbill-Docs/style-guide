@@ -34,6 +34,11 @@
           }
           ,
           {
+            "text": "Capitalization",
+            "link": "style-guide/capitalization"
+          }
+          ,
+          {
             "text": "Accessibility Guidelines",
             "items": [
               {
