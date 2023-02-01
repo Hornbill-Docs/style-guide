@@ -1,3 +1,7 @@
 {
-  "docId": "style-guide"
+  "docId": "style-guide",
+  "pdfGeneration": {
+    "enable": true,
+    "exclude_paths": []
+  }
 }
