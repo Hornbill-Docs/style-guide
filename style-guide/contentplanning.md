@@ -1,7 +1,7 @@
 # Content Planning
 Well begun is half-done. To do this we need to plan the content well and ensure that the following aspects are covered.
 
-<img src="/_books/style-guide/images/contentplanning.png" alt="Content Planning" width="500"/>
+<img src="/_books/style-guide/images/contentplanning.png" alt="Content Planning"/>
 
 Some suggested examples for Content treatment are as follows:
 |Content Requirement|Suggested Type of Content|
