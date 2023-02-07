@@ -39,6 +39,11 @@
           }
           ,
           {
+            "text": "Design Planning",
+            "link": "style-guide/designplanning"
+          }
+          ,
+          {
             "text": "Capitalization",
             "link": "style-guide/capitalization"
           }
