@@ -49,6 +49,11 @@
           }
           ,
           {
+            "text": "Working with Numbers",
+            "link": "style-guide/numbers"
+          }
+          ,
+          {
             "text": "Accessibility Guidelines",
             "items": [
               {
