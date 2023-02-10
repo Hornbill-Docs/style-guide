@@ -54,6 +54,16 @@
           }
           ,
           {
+                "text": "Procedures",
+                "link": "style-guide/procedures"
+          }
+          ,
+          {
+                "text": "Instructions",
+                "link": "style-guide/instructions"
+          }
+          , 
+          {
             "text": "Accessibility Guidelines",
             "items": [
               {
