@@ -62,6 +62,16 @@
                 "text": "Instructions",
                 "link": "style-guide/instructions"
           }
+          ,
+          {
+                "text": "Reference Documentation",
+                "link": "style-guide/referencedocumentation"
+          }
+          ,
+          {
+                "text": "Final Publishing",
+                "link": "style-guide/publishing"
+          }
           , 
           {
             "text": "Accessibility Guidelines",
