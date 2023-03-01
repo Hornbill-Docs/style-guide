@@ -69,6 +69,11 @@
           }
           ,
           {
+                "text": "Code Examples",
+                "link": "style-guide/codeexamples"
+          }
+          ,
+          {
                 "text": "Final Publishing",
                 "link": "style-guide/publishing"
           }
