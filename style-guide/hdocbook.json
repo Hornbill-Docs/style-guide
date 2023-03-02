@@ -74,6 +74,11 @@
           }
           ,
           {
+                "text": "Developer Text Elements",
+                "link": "style-guide/developertextelements"
+          }
+          ,
+          {
                 "text": "Final Publishing",
                 "link": "style-guide/publishing"
           }
