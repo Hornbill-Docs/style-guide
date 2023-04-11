@@ -3,7 +3,7 @@
   "title": "Hornbill Content Style Guide",
   "description": "Style guide for writing and other content used by our customers, partners and team members",
   "publicSource": "https://github.com/Hornbill-Docs/style-guide",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "productFamily": "hdocs",
   "tags": ["hdoc", "HDocBook", "Documentation", "Tool", "style"],
   "audience": ["public"],
