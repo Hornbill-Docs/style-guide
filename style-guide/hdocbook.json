@@ -24,13 +24,22 @@
           }
           ,
           {
-            "text": "Hornbill Tone of Voice",
-            "link": "style-guide/voice"
-          }
-          ,
-          {
-            "text": "Content without Bias",
-            "link": "style-guide/contentwithoutbias"
+            "text": "Content Writing",
+            "expand": true,
+            "items": [
+              {
+                "text": "Tone of voice",
+                "link": "style-guide/voice"
+              },
+              {
+                "text": "Writing Style",
+                "link": "style-guide/writing-style"
+              },
+              {
+                "text": "Content without Bias",
+                "link": "style-guide/contentwithoutbias"
+              }
+            ]
           }
           ,
           {
