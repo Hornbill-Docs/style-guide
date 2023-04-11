@@ -5,7 +5,7 @@ This style guide provides guidelines for writing clear, concise, and consistent 
 1. __Language and Tone__
    - Use clear and concise language. Avoid jargon, complex language, and colloquial expressions.
    - Write in an active voice. Passive voice can be less engaging and harder to understand.
-   - Hornbill-Docs content should generally be written in [corporate first person](/style-guide/writing-style#perspective-writing-corporate-first-person) style. or in some cases [impersonal](/style-guide/writing-style#perspective-writing-impersonal-writing) style may be used. Third-person writing should only ever be applied where a third-party product or organization specifically is being written about.
+   - Hornbill-Docs content should generally be written in [Corporate First Person](/style-guide/writing-style#corporate-first-person) style. or in some cases [impersonal](/style-guide/writing-style#impersonal) style may be used. Third-person writing should only ever be applied where a third-party product or organization specifically is being written about.
    - Maintain a professional and informative tone. Avoid being overly casual or using humor that may not be universally understood.
    - Use gender-neutral language and avoid making assumptions about the reader's background or expertise.
 2. __Conversational Language__:

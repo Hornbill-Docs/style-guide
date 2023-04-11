@@ -24,8 +24,10 @@ Choosing the appropriate writing style for Hornbill Docs content really depends 
 
 A consistent and appropriate writing style helps ensure that the message is effectively communicated and well-received by the intended audience.
 
-## Perspective Writing - Corporate First Person
+## Perspective Writing
+
+### Corporate First Person
 When writing in the 1st person style as a company and not an individual, it is often referred to as the "corporate first person" or "organizational first person." In this style, the company speaks as a single entity using pronouns like "we," "us," and "our" to refer to itself. This approach helps establish a more personal and engaging tone while maintaining the company's unified voice. It is commonly used in marketing materials, corporate communications, product documentation and other business-related content.
 
-## Perspective Writing - Impersonal
+### Impersonal
 When a text is not written in the 1st, 2nd, or 3rd person, it is typically written in the impersonal style. Impersonal writing does not focus on a specific person or group and avoids using pronouns like "I," "you," or "he/she/they." Instead, it focuses on the subject matter or general information without referring to a specific individual or entity. This style is common in academic writing, scientific papers, and formal reports, where the emphasis is placed on the information being presented rather than the person presenting it.
