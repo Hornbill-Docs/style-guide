@@ -3,11 +3,21 @@
   "title": "Hornbill Content Style Guide",
   "description": "Style guide for writing and other content used by our customers, partners and team members",
   "publicSource": "https://github.com/Hornbill-Docs/style-guide",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "productFamily": "hdocs",
-  "tags": ["hdoc", "HDocBook", "Documentation", "Tool", "style"],
-  "audience": ["public"],
-  "languages": ["en"],
+  "tags": [
+    "hdoc",
+    "HDocBook",
+    "Documentation",
+    "Tool",
+    "style"
+  ],
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
   "navigation": {
     "items": [
       {
@@ -21,12 +31,15 @@
           {
             "text": "Content Styling Tips",
             "link": "style-guide/tips"
-          }
-          ,
+          },
           {
             "text": "Content Writing",
             "expand": true,
             "items": [
+              {
+                "text": "Document Quality Standard",
+                "link": "style-guide/document-quality-standard"
+              },
               {
                 "text": "Tone of voice",
                 "link": "style-guide/voice"
@@ -37,61 +50,50 @@
               },
               {
                 "text": "Content without Bias",
-                "link": "style-guide/contentwithoutbias"
+                "link": "style-guide/content-without-bias"
               }
             ]
-          }
-          ,
+          },
           {
             "text": "Content Planning",
-            "link": "style-guide/contentplanning"
-          }
-          ,
+            "link": "style-guide/content-planning"
+          },
           {
             "text": "Design Planning",
-            "link": "style-guide/designplanning"
-          }
-          ,
+            "link": "style-guide/design-planning"
+          },
           {
             "text": "Capitalization",
             "link": "style-guide/capitalization"
-          }
-          ,
+          },
           {
             "text": "Working with Numbers",
             "link": "style-guide/numbers"
-          }
-          ,
+          },
           {
-                "text": "Procedures",
-                "link": "style-guide/procedures"
-          }
-          ,
+            "text": "Procedures",
+            "link": "style-guide/procedures"
+          },
           {
-                "text": "Instructions",
-                "link": "style-guide/instructions"
-          }
-          ,
+            "text": "Instructions",
+            "link": "style-guide/instructions"
+          },
           {
-                "text": "Reference Documentation",
-                "link": "style-guide/referencedocumentation"
-          }
-          ,
+            "text": "Reference Documentation",
+            "link": "style-guide/reference-documentation"
+          },
           {
-                "text": "Code Examples",
-                "link": "style-guide/codeexamples"
-          }
-          ,
+            "text": "Code Examples",
+            "link": "style-guide/code-examples"
+          },
           {
-                "text": "Developer Text Elements",
-                "link": "style-guide/developertextelements"
-          }
-          ,
+            "text": "Developer Text Elements",
+            "link": "style-guide/developer-text-elements"
+          },
           {
-                "text": "Final Publishing",
-                "link": "style-guide/publishing"
-          }
-          , 
+            "text": "Final Publishing",
+            "link": "style-guide/publishing"
+          },
           {
             "text": "Accessibility Guidelines",
             "items": [
@@ -101,11 +103,11 @@
               },
               {
                 "text": "Text and Graphics",
-                "link": "style-guide/textandgraphics"
+                "link": "style-guide/text-and-graphics"
               },
               {
                 "text": "Graphics and Design",
-                "link": "style-guide/graphicsanddesign"
+                "link": "style-guide/graphics-and-design"
               }
             ]
           }
@@ -113,6 +115,7 @@
       },
       {
         "text": "[Notes - Work In Progress]",
+        "draft": true,
         "expand": true,
         "items": [
           {
