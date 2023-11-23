@@ -54,6 +54,27 @@
               }
             ]
           },
+
+          {
+            "text": "Language and grammar",
+            "expand": true,
+            "items": [
+              {
+                "text": "Articles",
+                "link": "style-guide/articles"
+              }
+            ]
+          },
+
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "---"
+          },
           {
             "text": "Content Planning",
             "link": "style-guide/content-planning"
