@@ -60,6 +60,10 @@
             "expand": true,
             "items": [
               {
+                "text": "Anthropomorphism",
+                "link": "style-guide/anthropomorphism"
+              },
+              {
                 "text": "Articles",
                 "link": "style-guide/articles"
               }
