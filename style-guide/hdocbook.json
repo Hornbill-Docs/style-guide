@@ -60,12 +60,20 @@
             "expand": true,
             "items": [
               {
+                "text": "Abbreviations",
+                "link": "style-guide/abbreviations"
+              },
+              {
                 "text": "Anthropomorphism",
                 "link": "style-guide/anthropomorphism"
               },
               {
                 "text": "Articles",
                 "link": "style-guide/articles"
+              },
+              {
+                "text": "Capitalization",
+                "link": "style-guide/capitalization"
               },
               {
                 "text": "Contractions",
@@ -82,6 +90,10 @@
               {
                 "text": "Spelling",
                 "link": "style-guide/spelling"
+              },
+              {
+                "text": "Verbs",
+                "link": "style-guide/verbs"
               }
             ]
           },
