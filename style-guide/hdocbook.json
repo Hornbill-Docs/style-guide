@@ -99,6 +99,53 @@
           },
 
           {
+            "text": "Punctuation",
+            "expand": true,
+            "items": [
+              {
+                "text": "Colons",
+                "link": "style-guide/colons"
+              },
+              {
+                "text": "Commas",
+                "link": "style-guide/commas"
+              },
+              {
+                "text": "Dashes",
+                "link": "style-guide/dashes"
+              },
+              {
+                "text": "Ellipses",
+                "link": "style-guide/ellipses"
+              },
+              {
+                "text": "Hyphens",
+                "link": "style-guide/hyphens"
+              },
+              {
+                "text": "Parentheses",
+                "link": "style-guide/parentheses"
+              },
+              {
+                "text": "Periods and end punctuation",
+                "link": "style-guide/periods-and-end-punctuation"
+              },
+              {
+                "text": "Quotation marks",
+                "link": "style-guide/quotation-marks"
+              },
+              {
+                "text": "Semicolons",
+                "link": "style-guide/semicolons"
+              },
+              {
+                "text": "Slashes",
+                "link": "style-guide/slashes"
+              }
+            ]
+          },
+
+          {
             "text": ""
           },
           {
