@@ -1,0 +1,1 @@
+# Periods and end punctuation
