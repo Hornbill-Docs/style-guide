@@ -60,39 +60,39 @@
             "expand": true,
             "items": [
               {
-                "text": "Abbreviations",
+                "text": "Abbreviations (EL: C)",
                 "link": "style-guide/abbreviations"
               },
               {
-                "text": "Anthropomorphism",
+                "text": "Anthropomorphism (EL: C)",
                 "link": "style-guide/anthropomorphism"
               },
               {
-                "text": "Articles",
+                "text": "Articles (EL: C)",
                 "link": "style-guide/articles"
               },
               {
-                "text": "Capitalization",
+                "text": "Capitalization (EL: C)",
                 "link": "style-guide/capitalization"
               },
               {
-                "text": "Contractions",
+                "text": "Contractions (EL: C)",
                 "link": "style-guide/contractions"
               },
               {
-                "text": "Prepositions",
+                "text": "Prepositions (EL: C)",
                 "link": "style-guide/prepositions"
               },
               {
-                "text": "Pronouns",
+                "text": "Pronouns (EL: C)",
                 "link": "style-guide/pronouns"
               },
               {
-                "text": "Spelling",
+                "text": "Spelling (EL: C)",
                 "link": "style-guide/spelling"
               },
               {
-                "text": "Verbs",
+                "text": "Verbs (EL: C)",
                 "link": "style-guide/verbs"
               }
             ]

@@ -1,5 +1,7 @@
 # Contractions
 
+<code>ELMER: Complete</code>
+
 Do not use contractions in technical information.
 
 Contractions can cause difficulty for translation and for users whose primary language is not English. For example, *it's* can be interpreted as *it is* or *it has*. Contractions can also contribute to an overly informal tone.

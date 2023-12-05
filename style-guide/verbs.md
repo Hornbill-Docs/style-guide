@@ -1,5 +1,7 @@
 # Verbs
 
+<code>ELMER: Complete</code>
+
 Ensure that your verbs are clear and concise, matching the appropriate mood, person, tense, and voice for effective communication.
 
 ## General guidelines

@@ -1,5 +1,7 @@
 # Articles
 
+<code>ELMER: Complete</code>
+
 Ensure that definite and indefinite articles are included, applying them accurately throughout the content. Use *a*, *an*, and *the* in your writing for ease of comprehension and translation.
 
 The terms *a* and *an* function as indefinite articles preceding a singular noun. They denote any unspecified member within a group.

@@ -1,5 +1,7 @@
 # Spelling
 
+<code>ELMER: Complete</code>
+
 In general, use British English spelling in all publications.
 
 **Examples (incorrect, not British English spelling) ❌**  

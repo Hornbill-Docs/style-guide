@@ -1,5 +1,7 @@
 # Capitalization
 
+<code>ELMER: Complete</code>
+
 Generally, use a lowercase style in text and sentence-style capitalization for headings. Additionally, do the following:
 - Do not capitalize words unless necessary. Consider why and if it truly needs to be capitalized before doing so.
 - Do not use all-uppercase text unless within specific contexts: official names, constant abbreviations in all-caps, or references to code that necessitates an all-uppercase format.
