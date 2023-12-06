@@ -99,9 +99,13 @@
           },
 
           {
-            "text": "Punctuation",
+            "text": "Punctuation (EL: WIP)",
             "expand": true,
             "items": [
+              {
+                "text": "Apostrophes (EL: C)",
+                "link": "style-guide/apostrophes"
+              },
               {
                 "text": "Colons",
                 "link": "style-guide/colons"
