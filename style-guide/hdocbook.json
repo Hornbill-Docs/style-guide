@@ -99,7 +99,7 @@
           },
 
           {
-            "text": "Punctuation (EL: WIP)",
+            "text": "Punctuation",
             "expand": true,
             "items": [
               {
@@ -107,15 +107,15 @@
                 "link": "style-guide/apostrophes"
               },
               {
-                "text": "Colons",
+                "text": "Colons (EL: WIP)",
                 "link": "style-guide/colons"
               },
               {
-                "text": "Commas",
+                "text": "Commas (EL: WIP)",
                 "link": "style-guide/commas"
               },
               {
-                "text": "Dashes",
+                "text": "Dashes (EL: WIP)",
                 "link": "style-guide/dashes"
               },
               {
@@ -143,7 +143,7 @@
                 "link": "style-guide/semicolons"
               },
               {
-                "text": "Slashes",
+                "text": "Slashes (EL: C)",
                 "link": "style-guide/slashes"
               }
             ]
