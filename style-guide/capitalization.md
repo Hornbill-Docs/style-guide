@@ -182,14 +182,14 @@ In general, use sentence-style capitalization for headings.
 
 Use sentence-style capitalization for these items:
 - Headings in books (except the book title)
-- Topic titles and headings in information centres
+- Topic titles and headings in information centers
 - Titles and headings in online information, such as tutorials, samples, technotes, and websites
 - Titles of white papers and marketing content
 
 Use headline-style capitalization for these items:
 - Titles of books
 - Titles of CDs
-- Titles of stand-alone information units, such as information centres, quick start guides, and courses
+- Titles of stand-alone information units, such as information centers, quick start guides, and courses
 
 If a headline-style title has a subtitle, apply these capitalization guidelines:
 - Use headline-style capitalization for a subtitle that is displayed on the same line as the title, is short, or is essential to the title.
@@ -281,5 +281,3 @@ Avoid using specific naming conventions like *camel case* or *snake case* to des
 
 **Example**
 - Name your table columns similar to how you name databases and tables. Use lowercase letters and replace spaces with underscores for names exceeding one word. Some examples are `first_name`, `employee_id`, or `gender`.
-
-

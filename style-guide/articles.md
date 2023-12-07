@@ -2,13 +2,13 @@
 
 <code>ELMER: Complete</code>
 
-Ensure that definite and indefinite articles are included, applying them accurately throughout the content. Use *a*, *an*, and *the* in your writing for ease of comprehension and translation.
+Ensure that definite and indefinite articles are included, applying them accurately throughout the content. Use *a*, *an*, and *the* in your writing for easy comprehension and translation.
 
 The terms *a* and *an* function as indefinite articles preceding a singular noun. They denote any unspecified member within a group.
 
 Meanwhile, *the* is a definite article applied before singular and plural nouns. It specifies one or more specific members within a group.
 
-**Examples (incorrect) ❌**  
+**Examples (incorrect) ❌**
 - File could not be found.
 - Delete object from workspace.
 - Notification sent to your device.

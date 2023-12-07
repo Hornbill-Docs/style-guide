@@ -2,9 +2,9 @@
 
 <code>ELMER: Complete</code>
 
-Anthropomorphism attributes human-like traits, emotions, intentions, or behaviours to non-human entities, objects, animals, or natural phenomena. It involves interpreting or portraying non-human things in a way that resembles human characteristics. 
+Anthropomorphism attributes human-like traits, emotions, intentions, or behaviors to non-human entities, objects, animals, or natural phenomena. It involves interpreting or portraying non-human things in a way that resembles human characteristics.
 
-Do not attribute human characteristics to inanimate objects incapable of human behaviour and emotions.
+Do not attribute human characteristics to inanimate objects incapable of human behavior and emotions.
 
 As much as possible, focus technical information on users and their actions, not on a product and the actions it serves.
 

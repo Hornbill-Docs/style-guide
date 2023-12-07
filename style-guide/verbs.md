@@ -150,8 +150,8 @@ Use past or future tense only when you cannot use present tense, or it does not 
 Use active voice as much as possible. Active voice focuses on the performer of the action and is often clearer, shorter, and more direct than passive voice.
 
 **Examples of passive voice and active voice**
-  - **Passive:** The built-in Settings application is used to configure phone-related customizations and behaviour.
-  - **Active:** You configure phone-related customizations and behaviour using the built-in Settings application.
+  - **Passive:** The built-in Settings application is used to configure phone-related customizations and behavior.
+  - **Active:** You configure phone-related customizations and behavior using the built-in Settings application.
   <br><br>
   - **Passive:** The update was installed by the system administrator.
   - **Active:** The system administrator installed the update, optimizing system performance.

@@ -215,7 +215,7 @@ Only use abbreviations in headings and titles if an abbreviation is well-known o
 
 ## Abbreviations in glossaries
 
-For the abbreviation, use a cross-reference labelled *See* that directs to the spelled-out term; do not provide a definition.
+For the abbreviation, use a cross-reference labeled *See* that directs to the spelled-out term; do not provide a definition.
 
 **Example**
   - **DBCS**  
