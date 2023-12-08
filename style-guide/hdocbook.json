@@ -119,8 +119,12 @@
                 "link": "style-guide/dashes"
               },
               {
-                "text": "Ellipses (EL: WIP)",
+                "text": "Ellipses (EL: C)",
                 "link": "style-guide/ellipses"
+              },
+              {
+                "text": "Exclamation points (EL: WIP)",
+                "link": "style-guide/exclamation-points"
               },
               {
                 "text": "Hyphens (EL: WIP)",
