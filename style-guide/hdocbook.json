@@ -135,8 +135,8 @@
                 "link": "style-guide/parentheses"
               },
               {
-                "text": "Periods and end punctuation (EL: WIP)",
-                "link": "style-guide/periods-and-end-punctuation"
+                "text": "Periods (EL: C)",
+                "link": "style-guide/periods"
               },
               {
                 "text": "Quotation marks (EL: WIP)",
@@ -149,6 +149,29 @@
               {
                 "text": "Slashes (EL: C)",
                 "link": "style-guide/slashes"
+              }
+            ]
+          },
+
+          {
+            "text": "Formatting and organization (EL: WIP)",
+            "expand": true,
+            "items": [
+              {
+                "text": "Dates and times",
+                "link": "style-guide/dates-and-times"
+              },
+              {
+                "text": "Figures",
+                "link": "style-guide/figures"
+              },
+              {
+                "text": "Footnotes",
+                "link": "style-guide/footnotes"
+              },
+              {
+                "text": "Headings and titles",
+                "link": "style-guide/headings-and-titles"
               }
             ]
           },
