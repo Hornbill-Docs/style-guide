@@ -179,6 +179,4 @@ If the parenthetical text is a complete sentence, you can either include the par
 
 ## Periods with quotation marks
 
-<code>ELMER: TO DO: Add link</code>
-
-Generally, position periods within the closing quotation marks. For more detailed information on how to use periods in conjunction with quotation marks, refer to the section titled "[Quotation marks with other punctuation]()."
+Generally, position periods within the closing quotation marks. For more detailed information on how to use periods in conjunction with quotation marks, refer to the section titled "[Quotation marks with other punctuation](/style-guide/quotation-marks#quotation-marks-with-other-punctuation)."
