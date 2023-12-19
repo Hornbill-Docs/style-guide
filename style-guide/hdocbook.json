@@ -111,7 +111,7 @@
                 "link": "style-guide/colons"
               },
               {
-                "text": "Commas (EL: WIP)",
+                "text": "Commas (EL: C)",
                 "link": "style-guide/commas"
               },
               {
@@ -154,23 +154,23 @@
           },
 
           {
-            "text": "Formatting and organization (EL: WIP)",
+            "text": "Formatting and organization",
             "expand": true,
             "items": [
               {
-                "text": "Dates and times",
+                "text": "Dates and times (EL: WIP)",
                 "link": "style-guide/dates-and-times"
               },
               {
-                "text": "Figures",
+                "text": "Figures (EL: WIP)",
                 "link": "style-guide/figures"
               },
               {
-                "text": "Footnotes",
+                "text": "Footnotes (EL: WIP)",
                 "link": "style-guide/footnotes"
               },
               {
-                "text": "Headings and titles",
+                "text": "Headings and titles (EL: WIP)",
                 "link": "style-guide/headings-and-titles"
               }
             ]
