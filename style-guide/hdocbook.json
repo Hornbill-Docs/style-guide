@@ -172,6 +172,14 @@
               {
                 "text": "Headings (EL: C)",
                 "link": "style-guide/headings"
+              },
+              {
+                "text": "Lists (EL: WIP)",
+                "link": "style-guide/lists"
+              },
+              {
+                "text": "Procedures (EL: C)",
+                "link": "style-guide/procedures"
               }
             ]
           },
