@@ -29,7 +29,7 @@ The quality guidelines applies to all forms of documentation, including user man
 
 ### User Engagement
 * __Interactivity:__ Include interactive elements like videos, hyperlinks, and clickable images to enhance user engagement.
-* __Cross-Reference:__ Make sure that you cross-reference your topics to other relevant topis in other documents that provide more detail for those tha want to learn more. 
+* __Cross-Reference:__ Make sure that you cross-reference your topics to other relevant topics in other documents that provide more detail for those tha want to learn more.
 * __Feedback~:__ Provide options for users to give feedback, ensuring continuous improvement.
 
 ### Legal and Ethical Standards

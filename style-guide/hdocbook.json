@@ -54,7 +54,24 @@
               }
             ]
           },
-
+          {
+            "text": "Key resources",
+            "expand": true,
+            "items": [
+              {
+                "text": "Word list (EL: WIP)",
+                "link": "style-guide/word-list"
+              },
+              {
+                "text": "Product names (EL: WIP)",
+                "link": "style-guide/product-names"
+              },
+              {
+                "text": "Text-formatting summary (EL: WIP)",
+                "link": "style-guide/text-formatting-summary"
+              }
+            ]
+          },
           {
             "text": "Language and grammar",
             "expand": true,
