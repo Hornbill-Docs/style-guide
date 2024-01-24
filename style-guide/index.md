@@ -3,7 +3,7 @@ layout: article-toc
 ---
 # Style Guide
 
-<code>ELMER: Work In Progress | Complete</code>
+<code>ELMER: Work In Progress</code>
 
 Welcome to the Hornbill Content Style Guide. This guide will help you understand the writing style of content that is created for Hornbill Products and Services. The content can be created for different purposes such as Website content, Blog content, User Manuals, Marketing and Sales Presentations, Training Guides, etc.
 
