@@ -13,5 +13,5 @@ Express urgency or emphasis through appropriate word choices rather than relying
 
 **Examples (correct) ✅**
 - You need to remove this tutorial.
-- **Warning:** Do not modify the exported file.
+- **Important:** Do not modify the exported file.
 - You finished half of the modules in the course.

@@ -43,7 +43,7 @@ In headline-style capitalization, do not capitalize the initial letter of the fo
 
 You can also use the following resources for capitalization guidance:
 
-- A smart title capitalization tool: [Title Case Converter](https://titlecaseconverter.com/)
+- [Title Case Converter](https://titlecaseconverter.com/) (a smart title capitalization tool)
 - [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) (subscription required)
 
 ## Capitalization and abbreviations
@@ -96,7 +96,7 @@ Use an uppercase letter on the text that immediately follows a colon when the te
   - Cost
   - Performance
   - Scalability
-- **Warning:** Updating your operating system to its latest version requires a reboot.
+- **Remember:** Updating your operating system to its latest version requires a reboot.
 - The text editor supports syntax highlighting for these programming languages: Ruby, Python, and Perl.
 - One famous quote by Pablo Picasso is: "Good artists copy, great artists steal."
 - Input/output operations: Move mode and locate mode
@@ -127,7 +127,7 @@ As much as possible, use a lowercase style in running text, and apply the follow
     - The configuration that you specified is VERY important.
 
   **Examples (correct) ✅**
-    - **Critical:** Do not delete the differential database backups.
+    - **CAUTION:** Do not delete the differential database backups.
     - The configuration that you specified is very important.
 
 - Do not create terms with internal uppercase letters.

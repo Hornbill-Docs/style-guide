@@ -114,7 +114,7 @@ When providing instructions for user actions, utilize the imperative mood. Imper
 
 **Examples**
 - Save the document before closing the application.
-- To save your changes, press Ctrl+S (Windows) or Command+S (macOS).
+- To save your changes, press `Ctrl+S` (Windows) or `Command+S` (macOS).
 
 ### Third person
 

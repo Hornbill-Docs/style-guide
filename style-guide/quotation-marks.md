@@ -20,7 +20,7 @@ Avoid using the term *quotes* when referring to quotation marks or the enclosed 
 - The speech began with a powerful quote from a historical figure.
 
 **Examples (correct) ✅**
-- Add the word "confidential" in quotation marks at the top of the document.
+- Add the word "confidential" in double quotation marks at the top of the document.
 - The speech began with a powerful quotation from a historical figure.
 
 ## Quotation marks for emphasis
@@ -32,7 +32,7 @@ Avoid using quotation marks to emphasize words or phrases, as they can make the 
 - The term "sustainability" is crucial in this context.
 
 **Examples (correct) ✅**
-- **Caution:** Carefully read the instructions before assembly.
+- **Important:** Carefully read the instructions before assembly.
 - The term *sustainability* is crucial in this context.
 
 ## Double quotation marks

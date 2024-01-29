@@ -21,7 +21,7 @@ Follow these guidelines for using colons in running text:
 
   **Examples**
     - **Tip:** Utilize keyboard shortcuts to streamline your workflow and increase productivity.
-    - **Warning:** Do not proceed with the installation if the system has less than 5 GB of available space.
+    - **Important:** Do not proceed with the installation if the system has less than 5 GB of available space.
 
 - Use a colon between two independent clauses to amplify, elaborate on, or show a close relationship to the first clause.
 
@@ -94,7 +94,7 @@ Use an uppercase letter on the text that immediately follows a colon when the te
   - Cost
   - Performance
   - Scalability
-- **Warning:** Updating your operating system to its latest version requires a reboot.
+- **Remember:** Updating your operating system to its latest version requires a reboot.
 - The text editor supports syntax highlighting for these programming languages: Ruby, Python, and Perl.
 - One famous quote by Pablo Picasso is: "Good artists copy, great artists steal."
 - Input/output operations: Move mode and locate mode
