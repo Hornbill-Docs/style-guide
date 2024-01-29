@@ -111,7 +111,7 @@ Compose each step to represent an important user action, but be cautious not to 
 
 **Examples (incorrect) ❌**
 1. Type `yes`.
-2. Press **Enter**.
+2. Press `Enter`.
 
 **Examples (correct) ✅**
 1. Enter `yes`.

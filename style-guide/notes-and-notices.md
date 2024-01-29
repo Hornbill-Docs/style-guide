@@ -17,17 +17,11 @@ To effectively highlight essential hints, tips, guidance, restrictions, or advic
 **Examples**
 
 - **Exception:** Users with read-only access cannot execute the batch processing feature.
-
 - **Fast Path:** To quickly access system logs, use the shortcut `Ctrl+L` in the main dashboard.
-
 - **Important:** Always back up your database before performing a major update to avoid data loss.
-
 - **Remember:** The number of concurrent users may impact the application's performance.
-
 - **Requirement:** Installation requires a minimum of 4 GB RAM and 20 GB free disk space.
-
 - **Restriction:** The API does not support concurrent calls from the same user session.
-
 - **Tip:** Use the built-in code templates for standard functions to save time during development.
 
 Avoid breaking up a paragraph with a note. Notes should be distinct and not inlined within other text. Keep note text unindented and ensure its use does not disrupt the layout of adjacent text.

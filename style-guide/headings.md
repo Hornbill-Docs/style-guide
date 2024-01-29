@@ -9,9 +9,7 @@ Use headings to structure information coherently and logically.
 Consistently and logically format your headings:
 
 - Avoid numbering headings except for chapter titles in books and topic-based content. However, it's acceptable to number headings and subheadings in shorter documents such as articles, white papers, quick start guides, and similar publications.
-
 - Ensure uniform typographic styling for headings of the same level throughout your publication. Use the formatting features of your writing tool to maintain this consistency.
-
 - Refrain from positioning headings consecutively without intervening text. If the text between headings is minimal, reassess the necessity of one of the headings and restructure the content if needed.
 
 ## Wording of headings
@@ -49,7 +47,6 @@ Craft headings to be concise and informative, choosing the right style for diffe
 Use appropriate punctuation in headings:
 
 - Do not end a heading with a period or colon.
-
 - Use a colon to separate a heading from its subheading, avoiding using parentheses or dashes. Place the colon immediately after the heading, followed by a single space, and ensure the subheading's first letter is capitalized.
 
   **Examples**
