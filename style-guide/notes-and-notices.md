@@ -42,6 +42,10 @@ When multiple notes are grouped, label them collectively on a separate line and 
   1. Utilize keyboard shortcuts in the development environment to enhance coding efficiency.
   2. Regularly commit changes to your version control system to safeguard your work and track progress.
 
+<br>
+
+If a note extends beyond a single paragraph, restructure the content into a subsection with a heading rather than maintaining it as a multi-paragraph note. Lengthy notes can be challenging to distinguish from regular text, making them less effective and potentially confusing.
+
 ## Notices
 
 Use specific headings for notices highlighting the potential risk of harm to hardware, software, data, or physical safety.
