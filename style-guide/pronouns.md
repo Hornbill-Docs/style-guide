@@ -25,11 +25,11 @@ Many terms and titles, such as *customer service representative*, *programmer*, 
 Use these techniques to avoid gender-specific pronouns:
 
 - Use the imperative mood.  
-  **Example (incorrect) ❌**
+  **Examples (incorrect) ❌**
     - The employee needs to submit her report by Friday.
     - The writer can improve his skills through deliberate practice.
 
-  **Example (correct) ✅**
+  **Examples (correct) ✅**
     - Submit the report by Friday's deadline.
     - Enhance skills through deliberate practice.
 
@@ -60,11 +60,11 @@ Do not use these techniques to avoid gender-specific pronouns:
     | his or hers | his/hers |  |
 
 - Do not use a singular noun and a plural pronoun: *they*, *their*, *theirs*, *them*, or *themselves*.  
-  **Example (incorrect) ❌**
+  **Examples (incorrect) ❌**
     - Each employee is expected to clean their work area before they go home.
     - The supervisor praised their team for their excellent performance.
 
-  **Example (correct) ✅**
+  **Examples (correct) ✅**
     - All employees are expected to clean their work areas before they go home.
     - The supervisor praised the team for its excellent performance.
 
@@ -104,12 +104,12 @@ Do not interchange the words *that*, *which*, and *who*.
 
 - Use *who*, not *that* or *which*, to refer to a person. However, you can use the possessive form *whose* with both animate and inanimate objects.
 
-  **Example (incorrect) ❌**
+  **Examples (incorrect) ❌**
     - The software engineer that designed the system is experienced.
     - The scientist, which won the award, is giving a presentation.
     - Identify the environment variables that are dynamically set during runtime.
 
-  **Example (correct) ✅**
+  **Examples (correct) ✅**
     - The software engineer who designed the system is experienced.
     - The scientist, who won the award, is giving a presentation.
     - Identify the environment variables whose values are dynamically set during runtime.

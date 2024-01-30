@@ -123,12 +123,12 @@ Follow these capitalization guidelines for hyphenated words:
 - When a hyphenated word is found at the start of a sentence, capitalize solely the initial element within the term unless any subsequent element qualifies as a proper noun or proper adjective.
 
   **Examples (incorrect) ❌**
-    - one
-    - two
+    - Real-Time monitoring helps in prompt decision-making.
+    - Cross-Platform development increases software accessibility.
 
   **Examples (correct) ✅**
-    - one
-    - two
+    - Real-time monitoring helps in prompt decision-making.
+    - Cross-platform development increases software accessibility.
 
 - When a hyphenated word appears at the beginning of a heading utilizing sentence-style capitalization, capitalize solely the initial element within the term unless any subsequent element is a proper noun or proper adjective.
 
@@ -156,7 +156,7 @@ Follow these capitalization guidelines for hyphenated words:
 
 ## Hyphens with numbers
 
-Use hyphens in some spelled-out numbers and in some number compounds. See "[Numbers](style-guide/numbers)" for more details about using hyphens with numbers.
+Use hyphens in some spelled-out numbers and in some number compounds. For more details about using hyphens with numbers, see "[Numbers](style-guide/numbers)."
 
 ## Hyphens with ranges
 
@@ -191,4 +191,4 @@ Follow these guidelines for using hyphens with ranges:
     - a 1- through 8-character field
     - The system supports a 30- to 40-user capacity.
 
-See "[Ranges of numbers](style-guide/numbers#ranges-of-numbers)" for details on how to show a range of measurements.
+For more details on how to show a range of measurements, see "[Ranges of numbers](style-guide/numbers#ranges-of-numbers)."

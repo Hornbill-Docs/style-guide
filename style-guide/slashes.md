@@ -62,25 +62,25 @@ Follow these guidelines for using slashes in path names and URLs:
 
 - Do not include a forward slash at the end of a URL.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - www.hornbill.com/
 
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - www.hornbill.com
 
 - If a long URL does not fit on one line, add a line break immediately after an existing forward slash (/) or double forward slash (//), and continue the URL on the following line. Do not add a hyphen to indicate a break in a URL.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - <p>https://www.hornbill.com/blog/tag-<br>/collaborative-service-management</p>
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - <p>https://www.hornbill.com/blog/tag/<br>collaborative-service-management</p>
 
 - If a path does not fit on one line, end the first line after an existing forward slash or backslash and continue the path on the next line. Do not add a hyphen to indicate a break in a path.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - <p>C:\Desktop\Communication\Resources\Media\Training-<br> Videos\how-to-speak-effectively.mp4</p>
 
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - <p>C:\Desktop\Communication\Resources\Media\Training Videos\<br>how-to-speak-effectively.mp4</p>
 
 ## Slashes in fractions

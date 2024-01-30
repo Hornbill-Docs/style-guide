@@ -57,10 +57,10 @@ Use commas to separate items in a series of three or more. Use a comma before th
 
 Do not add commas or conjunctions between the items in a series of special characters.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 - Valid symbols for the password include the following:<br>`*, %, $, +, and !`.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 - Valid symbols for the password include the following:<br>`* % $ + !`.
 
 ## Commas with nonrestrictive clauses
@@ -75,8 +75,8 @@ Always place a comma before a nonrestrictive clause starting with the word *whic
 
 <code>ELMER: TODO: Add a link to the article.</code>
 
-When using commas as separators in numbers, adhere to specific rules that vary depending on the length of the numbers and their context within a sentence. See "[Separators in numbers]()" for details about using commas as separators in numbers.
+When using commas as separators in numbers, adhere to specific rules that vary depending on the length of the numbers and their context within a sentence. For more details about using commas as separators in numbers, see "[Separators in numbers]()."
 
 ## Commas with quotation marks
 
-In most cases, place commas inside closing quotation marks. See "[Quotation marks with other punctuation](/style-guide/quotation-marks#quotation-marks-with-other-punctuation)" for details about using commas with quotation marks.
+In most cases, place commas inside closing quotation marks. For more details about using commas with quotation marks, see "[Quotation marks with other punctuation](/style-guide/quotation-marks#quotation-marks-with-other-punctuation)."

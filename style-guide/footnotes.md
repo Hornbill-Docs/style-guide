@@ -17,10 +17,10 @@ If a footnote is necessary for conveying information, opt for a symbol rather th
 
 Place the footnote symbol at the end of the sentence, clause, word, abbreviation, or specific item it refers to, using a superscript format. For instance, use `<sup>†</sup>` to elevate the symbol above the text's baseline. Place the corresponding footnote content at the bottom of the page where the symbol appears.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 - This is an example sentence that has a footnote.<sup>1</sup>
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 - This is an example sentence that has a footnote.<sup>\*</sup>
 
   <sup>\*</sup> This footnote is at the bottom of the page.

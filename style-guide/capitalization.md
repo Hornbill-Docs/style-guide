@@ -70,10 +70,10 @@ The majority of expanded language and protocol names typically begin with capita
 
 When you spell out an abbreviation, avoid capitalizing mid-word letters to indicate the origin of an initialism.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 - eXtensible markup language (XML)
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 - Extensible Markup Language (XML)
 
 ## Capitalization and colons
@@ -132,10 +132,10 @@ As much as possible, use a lowercase style in running text, and apply the follow
 
 - Do not create terms with internal uppercase letters.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - StorageGroup
 
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - storage group
 
 - Do not start a sentence with a lowercase term; rewrite the sentence.

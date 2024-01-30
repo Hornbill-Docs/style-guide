@@ -148,7 +148,7 @@ Reset your password in this order:
 
 Ensure that list items maintain grammatical parallelism. For instance, avoid combining different grammatical structures, such as mixing passive voice with active voice or intermingling declarative sentences with imperative ones.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 
 To effectively manage a project:
 
@@ -156,7 +156,7 @@ To effectively manage a project:
 2. A comprehensive project plan should be developed.
 3. You must implement the plan and monitor progress.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
 To effectively manage a project, follow these steps:
 
@@ -164,7 +164,7 @@ To effectively manage a project, follow these steps:
 2. Develop a comprehensive project plan.
 3. Implement the plan and monitor progress.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 
 The training program offers the following benefits:
 
@@ -172,7 +172,7 @@ The training program offers the following benefits:
 - It increases job satisfaction.
 - It improves career prospects.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
 The training program offers the following benefits:
 
@@ -373,7 +373,7 @@ In preparing your report, ensure to include the following elements:
 - Detailed financial forecast for the next quarter
 - Insights from customer feedback surveys conducted last month
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 
 For optimal performance of the software, the user should:
 
@@ -381,7 +381,7 @@ For optimal performance of the software, the user should:
 - clear the cache memory to improve speed, and
 - backup data frequently, as this is crucial.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
 For optimal performance of the software, the user should perform the following actions:
 

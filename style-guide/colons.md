@@ -35,10 +35,10 @@ Follow these guidelines for using colons in running text:
 
 Do not use a colon at the end of a heading or title.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 - Writing SQL queries:
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 - Writing SQL queries
 
 Use a colon between a heading and subheading or between a title and subtitle. Do not insert a space before the colon, and insert one space after the colon. Capitalize the first letter of the subheading or subtitle.

@@ -32,21 +32,21 @@ Follow these guidelines for using prepositions:
     - The report lists the status of all event monitors for this process.
 
 - Use a preposition at the end of a sentence to avoid an awkward or unnatural construction.  
-  **Example (awkward) ❌**
+  **Examples (awkward) ❌**
     - Find the category in which you need to place the file.
     - Select the section from which you want to copy content.
 
-  **Example (improved) ✅**
+  **Examples (improved) ✅**
     - Find the category you need to place the file in.
     - Select the section you want to copy content from.
 
 - Use a prepositional phrase instead of an apostrophe and the letter *s ('s)* to show the possessive form of abbreviations, brand names, product names, or inanimate objects.  
-  **Example (incorrect) ❌**
+  **Examples (incorrect) ❌**
     - Alter the table's columns.
     - Use Microsoft Word's spell-checking feature to ensure quality documentation.
     - The IDE's keyboard shortcuts are intuitive.
 
-  **Example (correct) ✅**
+  **Examples (correct) ✅**
     - Alter the columns of the table.
     - Use the spell-checking feature in Microsoft Word to ensure quality documentation.
     - The keyboard shortcuts of the IDE are intuitive.

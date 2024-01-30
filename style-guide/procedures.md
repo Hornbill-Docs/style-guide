@@ -93,6 +93,10 @@ Use a colon at the end of a sentence that introduces a subprocedure (nested orde
   b. Enter your email address and password.<br>
   c. Choose the appropriate email protocol.
 
+<br>
+<!-- added a <span> tag to discontinue or restart the numbering of an ordered list -->
+<span></span>
+
 1. Install the software. Make sure your computer meets the minimum system requirements.<br>
   a. Run the installer and select the language.<br>
   b. Agree to the terms and conditions.<br>
@@ -102,25 +106,25 @@ Use a colon at the end of a sentence that introduces a subprocedure (nested orde
 
 Compose each step to represent an important user action, but be cautious not to over-detail. For users beyond the beginner level, indicate sequences of menu selections using arrows. When instructing users to press Enter as part of an action, incorporate this directive within the same step, not as a standalone step. Exclude any ellipses, colons, or similar punctuation from interface element labels in your action descriptions.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 1. Click **File**.
 2. Click **New Window**.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 1. Click **File > New Window**.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 1. Type `yes`.
 2. Press `Enter`.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 1. Enter `yes`.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 1. Click **Open File...**.
 2. Select a file in the dialog box and click **Open**.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 1. Click **Open File**.
 2. Select a file in the dialog box and click **Open**.
 
@@ -132,36 +136,36 @@ Avoid using the term *please* in instructions. Politeness expressions are unnece
 
 Use the imperative mood in the first sentence of each step. Should an explanation be required, include it within the same step following the imperative sentence rather than creating a new step. Rather than detailing the result of each action, guide the user in the subsequent step to the location or context where the action is to be performed.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 
   1. Choose **File** from the top menu and then select **Export**.
   2. This option allows you to save your work in various formats. In the export dialog box, select the format you prefer.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
   1. Choose **File** from the top menu and then select **Export**. This option allows you to save your work in various formats.
   2. In the export dialog box, select the format you prefer.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
   1. Choose **File** from the top menu and then select **Export**.
   2. In the export dialog box, select the format you prefer.
 
 If you orient the user to the location where the action is performed or explain the purpose of the action, do so before describing the action.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 
   1. Select the format you prefer in the export dialog box.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
   1. In the export dialog box, select the format you prefer.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 
   1. Choose **Settings** on the home screen to customize your dashboard.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
   1. To customize your dashboard, choose **Settings** on the home screen.
 
@@ -207,19 +211,19 @@ Do not use sequential steps for actions that do not follow a specific order. In 
 1. If you did not set a password, go to step 4, or if you did set a password, type the password and click **Save**.
 2. ...
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
   1. Choose the appropriate method to log in to the system:
   - If you did not set a password, go to step 4.
   - If you did set a password, type the password and click **Save**.
   2. ...
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 1. Click **Manage Members**.
 2. To add a new member, click **Add** and type the member's name.
 3. To delete a member, select the member and click **Delete**.
 4. To perform an action on all members, click **All**.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 1. Click **Manage Members** to do any of the following tasks:
 - To add a new member, click **Add** and type the member's name.
 - To delete a member, select the member and click **Delete**.
@@ -230,14 +234,14 @@ Do not use sequential steps for actions that do not follow a specific order. In 
 
 Do not include actions outside the procedure's scope, and refrain from integrating steps from a different procedure. Should a follow-up procedure be required, guide the user toward it through a cross-reference or a hyperlink at the end of the current procedure. Alternatively, mention additional procedures in a subsequent paragraph or provide a link. Avoid concluding a procedure with a statement solely indicating its completion.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 
 To update your subscription preferences:
   1. Click **Manage Subscription**.
   2. In the **Categories** list, check or uncheck the items you prefer and click **Update**.
   3. To unsubscribe permanently, click **Unsubscribe**.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
 To update your subscription preferences:
   1. Click **Manage Subscription**.
@@ -247,7 +251,7 @@ To update your subscription preferences:
 
 Unsubscribing
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 
 To install the video card:
   1. Remove the computer case.
@@ -255,7 +259,7 @@ To install the video card:
   3. ...
   4. Replace the computer case. The video card is now installed. You must now install the device drivers of the video card. See "Installing the video card device driver."
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
 To install the video card:
   1. Remove the computer case.
@@ -269,7 +273,7 @@ After you install the video card, you must install the video card's device drive
 **Previous topic:** Preparing the computer for video card installation<br>
 **Next topic:** Installing the video card device driver
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 
 To install the video card:
   1. Remove the computer case.

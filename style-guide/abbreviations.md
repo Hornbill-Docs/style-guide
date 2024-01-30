@@ -108,10 +108,10 @@ Follow these guidelines for spelling out abbreviations:
 
 - When you spell out an abbreviation, do not capitalize letters in the middle of a word to show the origin of an initialism.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - eXtensible markup language (XML)
 
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - Extensible Markup Language (XML)
 
 - Avoid redundancies in spelling out abbreviations. For instance, refrain from using *DASD device* as *D* already stands for *device*, or *JCL language*, because the *L* stands for *language*. Exceptions may exist, such as referencing a *CICS system*, even though *CICS* expands to *Customer Information Control System*.
@@ -169,10 +169,10 @@ Follow these guidelines for using periods in abbreviations:
 
 - If an abbreviation that requires a period occurs at the end of the sentence, do not include another period.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - The conference starts at 1:00 p.m..
 
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - The conference starts at 1:00 p.m.
 
 ## Abbreviations not to use
@@ -193,10 +193,10 @@ Keep in mind the following guidelines on what abbreviations to avoid:
 
 - Spell out shortened words or common symbols that are substitutions for words.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - Adding indexes to the `customers` table increased search performance by 12x.
 
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - Adding indexes to the `customers` table increased search performance by 12 times.
 
 ## Abbreviations in headings and titles

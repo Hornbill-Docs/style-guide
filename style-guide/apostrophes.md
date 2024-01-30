@@ -35,7 +35,7 @@ Follow these guidelines for using apostrophes in possessives:
 
 - Avoid using *'s* to show the possessive form of inanimate objects. Make the possessive noun an adjective, or use the possessive noun in a prepositional phrase.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - Wrap the book's cover with plastic.
   
   **Examples (correct) ✅**
@@ -54,7 +54,7 @@ Follow these guidelines for using apostrophes in possessives:
 
 - Do not use *'s* to show the possessive form of Hornbill unless you refer to only the company and do not identify goods or services.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - Hornbill's Omnichannel product family comprises 12 products.
     
   **Examples (correct) ✅**

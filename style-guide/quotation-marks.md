@@ -126,8 +126,8 @@ Always use straight quotation marks for the following reasons:
 - Manually typing curly marks can be difficult on some platforms.
 - It makes reviewing documents easier. It is hard to proofread a document, whether marks are straight or curly, and which direction they point in.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 - <pre>The book’s title is “The Road Not Taken.”</pre>
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 - <pre>The book's title is "The Road Not Taken."</pre>

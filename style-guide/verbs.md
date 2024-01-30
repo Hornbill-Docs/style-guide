@@ -33,10 +33,10 @@ Keep verbs clear and concise:
 
 
 - Do not omit the verb from the second coordinate clause when constructing a sentence that contains two coordinate clauses.    
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - The file names are displayed in uppercase characters and the other file attributes in lowercase characters.
 
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - The file names are displayed in uppercase characters, and the other file attributes are displayed in lowercase characters.
 
 - When you use a verb phrase at the beginning of a sentence with a present participle, such as *creating*, or a past participle, such as *created*, make sure the verb phrase modifies the correct word. Failure to do so results in a dangling modifier.  
@@ -107,7 +107,7 @@ The use of the first person is acceptable in these situations:
 
 Employ the second person, indicated by the personal pronoun *you*, whenever feasible. The second person directly addresses the reader.
 
-**Examples**
+**Example**
 - To ensure data integrity, you should regularly back up your database.
 
 When providing instructions for user actions, utilize the imperative mood. Imperative sentences imply the subject as the user, typically understood as *you*.
@@ -137,11 +137,11 @@ Write in the simple present tense as much as possible.
 
 Use past or future tense only when you cannot use present tense, or it does not make sense to use present tense.
 
-**Example (incorrect) ❌**
+**Examples (incorrect) ❌**
 - If you selected **New** in the previous window, the current window will display the recommended default values.
 - Cancel a broker deployment only if you are sure that the broker never responds to the deployment request.
 
-**Example (correct) ✅**
+**Examples (correct) ✅**
 - If you selected **New** in the previous window, the current window displays the recommended default values.
 - Cancel a broker deployment only if you are sure that the broker will never respond to the deployment request.
 

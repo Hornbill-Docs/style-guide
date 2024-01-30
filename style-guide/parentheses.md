@@ -17,7 +17,7 @@ When detailing the complete form of an abbreviation, punctuation mark, or specia
 
 Do not use the letter *s* in parentheses *(s)* to indicate that a noun can be singular or plural. Some languages form plural nouns differently than English, and the construction *(s)* can cause translation problems. Instead, use the plural form or, if it is important to indicate both singular and plural options, use the phrase *one or more*.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 - The software can generate report(s) based on user input.
 
 **Examples (correct) ✅**

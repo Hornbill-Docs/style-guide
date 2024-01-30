@@ -64,10 +64,10 @@ Follow these guidelines for using periods in abbreviations:
 
 - If an abbreviation that requires a period occurs at the end of a sentence, do not include another period.
 
-  **Examples (incorrect) ❌**
+  **Example (incorrect) ❌**
     - The virtual conference starts at 11:00 a.m..
 
-  **Examples (correct) ✅**
+  **Example (correct) ✅**
     - The virtual conference starts at 11:00 a.m.
 
 ## Periods with file name extensions
@@ -81,10 +81,10 @@ Place a period before a file name extension. When referring to such an extension
 
 Do not end a heading with a period.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
   - Writing SQL queries.
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
   - Writing SQL queries
 
 In books, use a period in titles for chapters and appendixes. Insert the period after the name of the entity and the identifying number or letter before the descriptive name.
@@ -165,10 +165,10 @@ Use a period on the line (.) as the decimal separator instead of a raised dot (�
 
 If the parenthetical text is not a complete sentence, do not insert a period inside the parentheses.
 
-**Examples (incorrect) ❌**
+**Example (incorrect) ❌**
 - The meal options include vegetarian dishes (like salads, soups, and pasta.)
 
-**Examples (correct) ✅**
+**Example (correct) ✅**
 - The meal options include vegetarian dishes (like salads, soups, and pasta).
 
 If the parenthetical text is a complete sentence, you can either include the parenthetical sentence in the sentence to which it pertains or in parentheses as a separate sentence. If you include the parenthetical sentence in the sentence to which it pertains, do not insert a period inside the parentheses. If the parenthetical text is a separate sentence, insert the period inside the parentheses.
@@ -179,4 +179,4 @@ If the parenthetical text is a complete sentence, you can either include the par
 
 ## Periods with quotation marks
 
-Generally, position periods within the closing quotation marks. For more detailed information on how to use periods in conjunction with quotation marks, refer to the section titled "[Quotation marks with other punctuation](/style-guide/quotation-marks#quotation-marks-with-other-punctuation)."
+Generally, position periods within the closing quotation marks. For more detailed information on how to use periods in conjunction with quotation marks, see "[Quotation marks with other punctuation](/style-guide/quotation-marks#quotation-marks-with-other-punctuation)."
