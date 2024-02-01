@@ -179,10 +179,6 @@
                 "link": "style-guide/dates-and-times"
               },
               {
-                "text": "Figures (EL: WIP)",
-                "link": "style-guide/figures"
-              },
-              {
                 "text": "Footnotes (EL: C)",
                 "link": "style-guide/footnotes"
               },
@@ -197,6 +193,10 @@
               {
                 "text": "Notes and notices (EL: C)",
                 "link": "style-guide/notes-and-notices"
+              },
+              {
+                "text": "Paragraphs (EL: C)",
+                "link": "style-guide/paragraphs"
               },
               {
                 "text": "Procedures (EL: C)",
