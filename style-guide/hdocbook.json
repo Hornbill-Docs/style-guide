@@ -59,8 +59,8 @@
             "expand": true,
             "items": [
               {
-                "text": "Word list (EL: WIP)",
-                "link": "style-guide/word-list"
+                "text": "Terminology reference (EL: C)",
+                "link": "style-guide/terminology-reference"
               },
               {
                 "text": "Product names (EL: WIP)",

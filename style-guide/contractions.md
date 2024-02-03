@@ -15,5 +15,5 @@ The contraction *what's* in the phrase *what's new* is acceptable in content tha
 
 **Examples (correct) ✅**  
 - The database does not back up the information automatically.
-- A user can not drop a database without the proper privileges.
+- A user cannot drop a database without the proper privileges.
 - For more information about Git's new features, see "What's new in this release."
