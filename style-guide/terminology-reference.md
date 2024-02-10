@@ -18,7 +18,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 <dl>
   <dt id="ampersand">⚠️
     <a href="/style-guide/terminology-reference#ampersand">
-      &amp; <b>(ampersand)</b>
+      <b>&amp;(ampersand)</b>
     </a>
   </dt>
   <dd>Do not use <i>&</i> as a substitute for <i>and</i> in headings, body text, navigation elements, or tables of contents.</dd>

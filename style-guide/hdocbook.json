@@ -191,6 +191,14 @@
                 "link": "style-guide/headings"
               },
               {
+                "text": "Key terms (EL: C)",
+                "link": "style-guide/key-terms"
+              },
+              {
+                "text": "Letters as letters (EL: C)",
+                "link": "style-guide/letters-as-letters"
+              },
+              {
                 "text": "Lists (EL: C)",
                 "link": "style-guide/lists"
               },
@@ -205,6 +213,10 @@
               {
                 "text": "Procedures (EL: C)",
                 "link": "style-guide/procedures"
+              },
+              {
+                "text": "Words as words (EL: C)",
+                "link": "style-guide/words-as-words"
               }
             ]
           },

@@ -10,7 +10,7 @@ When detailing the complete form of an abbreviation, punctuation mark, or specia
 
 **Examples**
 - HyperText Markup Language (HTML) is the standard language for creating web pages.
-- When editing text, use the ampersand symbol (&) to represent the word "and."
+- When editing text, use the ampersand symbol (&) to represent the word *and*.
 - The recommended daily vitamin C intake is 75 milligrams (mg) for adults (about 0.0026 ounces).
 
 ## Parentheses to form plurals
