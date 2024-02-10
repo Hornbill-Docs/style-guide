@@ -4,7 +4,7 @@
 
 This terminology reference enhances clarity, uniformity, and professionalism across our documentation efforts. It serves as a definitive guide, directing our team to uniformly apply essential terms, phrases, and numerals, which may otherwise be subject to misunderstanding or inconsistent use. By aligning our language use, we improve the readability and uniformity of our documents and highlight our commitment to accurate and precise communication. The adoption of this reference aids in maintaining a consistent narrative throughout our documentation, thus increasing its accessibility and reliability for our audience.
 
-**Note:** For general spellings, definitions, etymologies, and rules about parts of speech, see *Merriam-Webster's Collegiate Dictionary* or visit [Merriam-Webster Online](https://www.merriam-webster.com/). These resources can provide authoritative guidance on the broader aspects of the English language, complementing the specific terminologies outlined in this reference.
+**Tip:** For general spellings, definitions, etymologies, and rules about parts of speech, see *Merriam-Webster's Collegiate Dictionary* or visit [Merriam-Webster Online](https://www.merriam-webster.com/). These resources can provide authoritative guidance on the broader aspects of the English language, complementing the specific terminologies outlined in this reference.
 
 Each term within this reference is accessible as a hyperlink. To link to a term, right-click to copy its hyperlink address or click to capture the URL from your browser's address bar.
 
@@ -18,7 +18,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 <dl>
   <dt id="ampersand">⚠️
     <a href="/style-guide/terminology-reference#ampersand">
-      &amp; (ampersand)
+      &amp; <b>(ampersand)</b>
     </a>
   </dt>
   <dd>Do not use <i>&</i> as a substitute for <i>and</i> in headings, body text, navigation elements, or tables of contents.</dd>
@@ -28,7 +28,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="24-7">⚠️
     <a href="/style-guide/terminology-reference#24-7">
-      24x7
+      <b>24x7</b>
     </a>
   </dt>
   <dd>Use this abbreviation to denote continuous operation or support, applicable to contexts like database and e-commerce applications or monitoring systems. Avoid using this abbreviation to convey the broad availability of services. Refrain from using "24/7."</dd>
@@ -37,7 +37,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="32-bit">🚫
     <a href="/style-guide/terminology-reference#32-bit">
-      32-bit Windows operating system
+      <b>32-bit Windows operating system</b>
     </a>
   </dt>
   <dd>Do not use. Use <i>Windows 32-bit operating system</i>.</dd>
@@ -48,7 +48,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 <dl>
   <dt id="abnormal">⚠️
     <a href="/style-guide/terminology-reference#abnormal">
-      abnormal
+      <b>abnormal</b>
     </a>
   </dt>
   <dd>Do not use to refer to a person.</dd>
@@ -57,7 +57,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="ad-hoc">✅
     <a href="/style-guide/terminology-reference#ad-hoc">
-      ad hoc
+      <p>ad hoc</p>
     </a>
   </dt>
   <dd>Permissible for use in database and analytics settings to denote "free-form" or "user-written" (for instance, <i>ad hoc queries</i> or <i>an ad hoc analysis</i>). In other contexts, it is advisable to seek a more precise English equivalent.</dd>
@@ -66,7 +66,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="all-caps">🚫
     <a href="/style-guide/terminology-reference#all-caps">
-      all caps
+      <b>all caps</b>
     </a>
   </dt>
   <dd>Do not use. Use <i>uppercase</i>.</dd>
@@ -77,7 +77,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 <dl>
   <dt id="backend">✅
     <a href="/style-guide/terminology-reference#backend">
-      backend
+      <b>backend</b>
     </a>
   </dt>
   <dd>Not <i>back-end</i> or <i>back end</i>. If possible, use a more specific term, such as <i>server</i>, <i>operating system</i>, or <i>network</i>.</dd>
@@ -85,7 +85,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="bench-mark">🚫
     <a href="/style-guide/terminology-reference#bench-mark">
-      bench-mark
+      <b>bench-mark</b>
     </a>
   </dt>
   <dd>Do not use. Use <i>benchmark</i>.</dd>
@@ -93,7 +93,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="benchmark">✅
     <a href="/style-guide/terminology-reference#benchmark">
-      benchmark
+      <b>benchmark</b>
     </a>
   </dt>
   <dd>Write as shown - one word.</dd>
@@ -101,7 +101,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="boolean">✅
     <a href="/style-guide/terminology-reference#boolean">
-      boolean
+      <b>boolean</b>
     </a>
   </dt>
   <dd>In the majority of situations, <i>boolean</i> pertains to a distinct data type within a particular programming language. Under these circumstances, apply code font and adhere to the precise spelling and capitalization used for the programming keyword.</dd>
@@ -114,7 +114,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 <dl>
   <dt id="can-not">🚫
     <a href="/style-guide/terminology-reference#can-not">
-      can not
+      <b>can not</b>
     </a>
   </dt>
   <dd>Do not use. Use <i>cannot</i>.</dd>
@@ -122,7 +122,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="cannot">✅
     <a href="/style-guide/terminology-reference#cannot">
-      cannot
+      <b>cannot</b>
     </a>
   </dt>
   <dd>Write as shown - one word.</dd>
@@ -130,7 +130,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="catastrophic-error">🚫
     <a href="/style-guide/terminology-reference#catastrophic-error">
-      catastrophic error
+      <b>catastrophic error</b>
     </a>
   </dt>
   <dd>Do not use. Use <i>unrecoverable error</i> or wording that indicates that the error disrupts operations.</dd>
@@ -138,7 +138,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="cripple">🚫
     <a href="/style-guide/terminology-reference#cripple">
-      cripple
+      <b>cripple</b>
     </a>
   </dt>
   <dd>Do not use. Opt for more accurate language. For example, rather than saying <i>it crippled the server</i>, state <i>it slowed the server down</i>.</dd>
@@ -150,7 +150,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 <dl>
   <dt id="ymmv">🚫
     <a href="/style-guide/terminology-reference#ymmv">
-      ymmv, YMMV
+      <b>ymmv, YMMV</b>
     </a>
   </dt>
   <dd>Do not use. Instead, use something like <i>Your results might vary</i>.</dd>
@@ -161,7 +161,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 <dl>
   <dt id="zeros">✅
     <a href="/style-guide/terminology-reference#zeros">
-      zeros
+      <b>zeros</b>
     </a>
   </dt>
   <dd>Write as shown, not <i>zeroes</i>.</dd>
@@ -169,7 +169,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="zip">🚫
     <a href="/style-guide/terminology-reference#zip">
-      zip
+      <b>zip</b>
     </a>
   </dt>
   <dd>Do not use <i>zip</i> to describe the action of file compression with a compression tool. Instead, employ <i>compress</i>, as this term applies to an array of formats and utilities.</dd>
@@ -178,7 +178,7 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
 
   <dt id="zip-file">🚫
     <a href="/style-guide/terminology-reference#zip-file">
-      zip file, zipped file
+      <b>zip file, zipped file</b>
     </a>
   </dt>
   <dd>Do not use to describe a compressed file. Opt for <i>archive</i> or <i>compressed file</i>, as these phrases are suitable for a broad range of formats and utilities. When referring to a file with a <i>zip</i> extension, it is permissible to use <code>.zip</code> file. Refrain from using <code>.ZIP</code> file.</dd>

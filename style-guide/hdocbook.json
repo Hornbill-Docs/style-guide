@@ -55,20 +55,24 @@
             ]
           },
           {
-            "text": "Key resources",
+            "text": "Reference materials",
             "expand": true,
             "items": [
               {
-                "text": "Terminology reference (EL: C)",
-                "link": "style-guide/terminology-reference"
+                "text": "Text formatting summary (EL: WIP)",
+                "link": "style-guide/text-formatting-summary"
               },
               {
                 "text": "Product names (EL: WIP)",
                 "link": "style-guide/product-names"
               },
               {
-                "text": "Text-formatting summary (EL: WIP)",
-                "link": "style-guide/text-formatting-summary"
+                "text": "Example names (EL: WIP)",
+                "link": "style-guide/example-names"
+              },
+              {
+                "text": "Terminology reference (EL: C)",
+                "link": "style-guide/terminology-reference"
               }
             ]
           },
