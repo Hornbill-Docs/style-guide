@@ -34,7 +34,7 @@ If your authoring tool supports footnotes in a table, include the footnote text 
 <table>
   <thead>
     <tr>
-      <td colspan="4" align="center"><strong>Table 1</strong> Device Specifications</td>
+      <td colspan="4" align="center"><b>Table 1</b> Device Specifications</td>
     </tr>
     <tr>
       <th>Model</th>
@@ -71,7 +71,7 @@ If your authoring tool does not support footnotes in tables, include a phrase su
 <table>
   <thead>
     <tr>
-      <td colspan="4" align="center"><strong>Table 1</strong> Device Specifications</td>
+      <td colspan="4" align="center"><b>Table 1</b> Device Specifications</td>
     </tr>
     <tr>
       <th>Model</th>

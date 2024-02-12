@@ -109,7 +109,8 @@ Use this type to represent a  collection of elements, often of the same data typ
 
 When the definition is a fragment (glossary style).<br><br>
 
-Below is a list of key terms you will encounter in your career as a software developer:
+
+The following are key terms you will encounter in your career as a software developer:
 
 **API**
 
@@ -192,7 +193,7 @@ Limit lists to a maximum of nine items to avoid overwhelming the reader. Conside
 
 For manually organizing lists without a clear sorting criterion, adopt [letter-by-letter alphabetization](https://cmosshoptalk.com/2016/05/11/sections-16-58-61-in-the-spotlight/). Regarding indexes and glossaries, the sorting is typically managed by the authoring tool rather than the writer.
 
-When alphabetizing items in a list, apart from index entries, utilize the letter-by-letter approach instead of word-by-word. The distinctions between these two methods are illustrated in the example below:
+When alphabetizing items in a list, apart from index entries, utilize the letter-by-letter approach instead of word-by-word. The distinctions between these two methods are illustrated in the following table:
 
 | Letter-by-letter alphabetization<br>(use this method) | Word-by-word alphabetization<br>(do not use this method) |
 |---|---|

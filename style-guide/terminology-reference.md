@@ -2,13 +2,13 @@
 
 <code>ELMER: Complete</code>
 
-This terminology reference enhances clarity, uniformity, and professionalism across our documentation efforts. It serves as a definitive guide, directing our team to uniformly apply essential terms, phrases, and numerals, which may otherwise be subject to misunderstanding or inconsistent use. By aligning our language use, we improve the readability and uniformity of our documents and highlight our commitment to accurate and precise communication. The adoption of this reference aids in maintaining a consistent narrative throughout our documentation, thus increasing its accessibility and reliability for our audience.
+This terminology reference enhances clarity, uniformity, and professionalism across Hornbill's documentation efforts. It serves as a definitive guide, directing our team to uniformly apply essential terms, phrases, and numerals, which may otherwise be subject to misunderstanding or inconsistent use. By aligning our language use, we improve the readability and uniformity of our documents and highlight our commitment to accurate and precise communication. The adoption of this reference aids in maintaining a consistent narrative throughout our documentation, thus increasing its accessibility and reliability for our audience.
 
 **Tip:** For general spellings, definitions, etymologies, and rules about parts of speech, see *Merriam-Webster's Collegiate Dictionary* or visit [Merriam-Webster Online](https://www.merriam-webster.com/). These resources can provide authoritative guidance on the broader aspects of the English language, complementing the specific terminologies outlined in this reference.
 
 Each term within this reference is accessible as a hyperlink. To link to a term, right-click to copy its hyperlink address or click to capture the URL from your browser's address bar.
 
-Within this reference, recommended terms are those with the ✅ icon. Certain terms also come with specific advice to use cautiously or avoid altogether. Follow these instructions as outlined below:
+Within this reference, recommended terms are those with the ✅ icon. Certain terms come with specific advice to use cautiously or avoid altogether, as detailed in the following guidance:
 
 - ⚠️ **Approach with care:** It is advisable to sidestep this term if feasible or tread lightly if necessary. The term may carry ambiguity or not be universally understood. Hence, we offer alternatives or urge the selection of a more straightforward term. Yet, the term remains an option if required.
 - 🚫 **Refrain from use:** Our standing policy is to eschew this term entirely. It could be notably vague, contain offensive connotations, or fail to be inclusive. When this term is found in code, our guidance is to find a replacement or reword the passage to eliminate its use.
@@ -81,6 +81,15 @@ Within this reference, recommended terms are those with the ✅ icon. Certain te
     </a>
   </dt>
   <dd>Not <i>back-end</i> or <i>back end</i>. If possible, use a more specific term, such as <i>server</i>, <i>operating system</i>, or <i>network</i>.</dd>
+  <br>
+
+  <dt id="below">⚠️
+    <a href="/style-guide/terminology-reference#below">
+      <b>below</b>
+    </a>
+  </dt>
+  <dd>Do not use to indicate a relative location in a document, as in "the information below." Use "the information later in this section."</dd>
+  <dd>Alternatively, you can use "following" to refer to a table, to art, or to a list. Example: "The following table shows ..."</dd>
   <br>
 
   <dt id="bench-mark">🚫
