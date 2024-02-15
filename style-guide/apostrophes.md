@@ -45,11 +45,11 @@ Follow these guidelines for using apostrophes in possessives:
 - Do not use *'s* to show the possessive form of abbreviations, brand names, or product names.
 
   **Examples (incorrect) ❌**
-    - Postgres' latest version supports the JSON data type.
+    - PostgreSQL's latest version supports the JSON data type.
     - Use MySQL's InnoDB storage engine as your default database storage engine.
     
   **Examples (correct) ✅**
-    - The latest version of Postgres supports the JSON data type.
+    - The latest version of PostgreSQL supports the JSON data type.
     - Use the InnoDB storage engine of MySQL as your default database storage engine.
 
 - Do not use *'s* to show the possessive form of Hornbill unless you refer to only the company and do not identify goods or services.

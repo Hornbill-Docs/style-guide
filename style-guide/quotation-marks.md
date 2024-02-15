@@ -58,7 +58,7 @@ Use double quotation marks for the following items:
   **Examples**
     - Explore the article "The Future of Renewable Energy" for insights into sustainable power sources.
     - For detailed steps on software installation, see the "Installation Process" chapter in the guidebook.
-    - Watch the "Advanced Excel Techniques" tutorial video to enhance your spreadsheet skills.
+    - Watch the "Advanced Microsoft Excel Techniques" tutorial video to enhance your spreadsheet skills.
 
 - Names of these items when they have sentence-style capitalization:
   - Notebooks
