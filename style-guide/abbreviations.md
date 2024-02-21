@@ -187,7 +187,7 @@ Keep in mind the following guidelines on what abbreviations to avoid:
   | etc. | Use *and so on* when you list a clear sequence of elements, such as "1, 2, 3, and so on" or "Monday, Tuesday, Wednesday, and so on." Otherwise, rewrite the sentence to replace *etc.* with something more descriptive, such as "and other output."|
   | i.e. | Use *that is*. |
 
-- Do not use internet slang abbreviations like *RTFM*, *tl;dr*, *ymmv*, and similar ones. Instead, express the intended meaning in a more descriptive manner.
+- Do not use internet slang abbreviations like *RTFM*, *tl;dr*, *[ymmv](/style-guide/terminology-reference#ymmv)*, and similar ones. Instead, express the intended meaning in a more descriptive manner.
 
 - Prefer the most widely used form of a word. If the complete word is frequently used and straightforward, use it rather than abbreviating. For instance, utilize *approximately* instead of *approx*.
 
