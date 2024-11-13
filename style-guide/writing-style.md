@@ -20,7 +20,7 @@ There are several different writing styles, and each serves a specific purpose:
 
 - __Informal__: This style is more relaxed and uses casual language, contractions, and a conversational tone. It is suitable for blog posts, personal correspondence, and other casual contexts.
 
-Choosing the appropriate writing style for Hornbill Docs content really depends on the writer's goal, but in general Hornbill Docs content should stick with Descriptive, Expository, Conversational and Technical styles, ideally from the [Corporate First Person](#perspective-writing-corporate-first-person) or [Impersonal Writing](#perspective-writing-impersonal) perspectives.
+Choosing the appropriate writing style for Hornbill Docs content really depends on the writer's goal, but in general Hornbill Docs content should stick with Descriptive, Expository, Conversational and Technical styles, ideally from the [Corporate First Person](#corporate-first-person) or [Impersonal Writing](#impersonal) perspectives.
 
 A consistent and appropriate writing style helps ensure that the message is effectively communicated and well-received by the intended audience.
 
